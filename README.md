@@ -5,7 +5,7 @@ Welcome! This repository contains my Java programming assignments submitted as p
 ---
 
 ##  Assignment 1
-🔹 Total Programs: 7
+🔹 Total Programs: 8
 
 | No. | Program Name |
 |-----|-------------|
@@ -16,6 +16,7 @@ Welcome! This repository contains my Java programming assignments submitted as p
 | 5 | Program5.java |
 | 6 | Program6.java |
 | 7 | Program7.java |
+| 8 | Program8.java |
 
 ---
 
